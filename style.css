@@ -1,8 +1,5 @@
-
-/*.minha-coluna {
-    justify-content: center;
-    display: flex;
-    align-items: center;
-  max-width: 1000px;
-  margin-bottom: 100px;
+button{
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
